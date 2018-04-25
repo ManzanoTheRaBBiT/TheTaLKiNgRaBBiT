@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <component name="ModuleManager">
+    <modules>
+      <module name="TheTaLKiNgRaBBiT" dirurl="file://$PROJECT_DIR$" current-layer="Default">
+        <module-layer name="Default">
+          <extension id="unity3d" sdk-module-name="" sdk-name="Unity3D 2017.4.0">
+            <define>UNITY_EDITOR</define>
+            <define>DEBUG</define>
+            <define>TRACE</define>
+          </extension>
+          <content url="file://$MODULE_DIR$">
+            <content-folder type="EXCLUDED" url="file://$MODULE_DIR$/.consulo" />
+            <content-folder type="EXCLUDED" url="file://$MODULE_DIR$/Library" />
+            <content-folder type="EXCLUDED" url="file://$MODULE_DIR$/Temp" />
+            <content-folder type="EXCLUDED" url="file://$MODULE_DIR$/test_Data" />
+          </content>
+          <orderEntry type="sourceFolder" />
+        </module-layer>
+      </module>
+      <module name="Assembly-CSharp-firstpass" current-layer="Default">
+        <module-layer name="Default">
+          <extension id="unity3d-child" />
+          <extension id="unity3d-csharp-child" unsafe-code="false" language-version-name="_6_0" />
+          <orderEntry type="sourceFolder" />
+          <orderEntry type="dot-net-library" name="mscorlib" />
+          <orderEntry type="dot-net-library" name="UnityEditor" />
+          <orderEntry type="dot-net-library" name="UnityEngine" />
+          <orderEntry type="dot-net-library" name="UnityEngine.UI" />
+          <orderEntry type="dot-net-library" name="UnityEngine.Networking" />
+          <orderEntry type="dot-net-library" name="UnityEngine.Analytics" />
+          <orderEntry type="dot-net-library" name="UnityEngine.Advertisements" />
+          <orderEntry type="dot-net-library" name="UnityEngine.Purchasing" />
+          <orderEntry type="dot-net-library" name="UnityEngine.Timeline" />
+          <orderEntry type="dot-net-library" name="System" />
+          <orderEntry type="dot-net-library" name="System.Core" />
+          <orderEntry type="dot-net-library" name="System.Runtime.Serialization" />
+          <orderEntry type="dot-net-library" name="System.Xml" />
+          <orderEntry type="dot-net-library" name="System.Xml.Linq" />
+        </module-layer>
+      </module>
+      <module name="Assembly-UnityScript-firstpass" current-layer="Default">
+        <module-layer name="Default">
+          <extension id="unity3d-child" />
+          <extension id="unity3d-unityscript-child" />
+          <orderEntry type="sourceFolder" />
+          <orderEntry type="dot-net-library" name="mscorlib" />
+          <orderEntry type="dot-net-library" name="UnityEditor" />
+          <orderEntry type="dot-net-library" name="UnityEngine" />
+          <orderEntry type="dot-net-library" name="UnityEngine.UI" />
+          <orderEntry type="dot-net-library" name="UnityEngine.Networking" />
+          <orderEntry type="dot-net-library" name="UnityEngine.Analytics" />
+          <orderEntry type="dot-net-library" name="UnityEngine.Advertisements" />
+          <orderEntry type="dot-net-library" name="UnityEngine.Purchasing" />
+          <orderEntry type="dot-net-library" name="UnityEngine.Timeline" />
+          <orderEntry type="dot-net-library" name="System" />
+          <orderEntry type="dot-net-library" name="System.Core" />
+          <orderEntry type="dot-net-library" name="System.Runtime.Serialization" />
+          <orderEntry type="dot-net-library" name="System.Xml" />
+          <orderEntry type="dot-net-library" name="System.Xml.Linq" />
+        </module-layer>
+      </module>
+      <module name="Assembly-CSharp-Editor" current-layer="Default">
+        <module-layer name="Default">
+          <extension id="unity3d-child" />
+          <extension id="unity3d-csharp-child" unsafe-code="false" language-version-name="_6_0" />
+          <extension id="unity3d-nunit-child" />
+          <orderEntry type="sourceFolder" />
+          <orderEntry type="module" module-name="Assembly-UnityScript-firstpass" />
+          <orderEntry type="module" module-name="Assembly-CSharp-firstpass" />
+          <orderEntry type="module" module-name="Assembly-CSharp" />
+          <orderEntry type="dot-net-library" name="UnityEditor.Graphs" />
+          <orderEntry type="dot-net-library" name="UnityEditor.UI" />
+          <orderEntry type="dot-net-library" name="nunit.framework" />
+          <orderEntry type="dot-net-library" name="UnityEditor.Timeline" />
+          <orderEntry type="dot-net-library" name="mscorlib" />
+          <orderEntry type="dot-net-library" name="UnityEditor" />
+          <orderEntry type="dot-net-library" name="UnityEngine" />
+          <orderEntry type="dot-net-library" name="UnityEngine.UI" />
+          <orderEntry type="dot-net-library" name="UnityEngine.Networking" />
+          <orderEntry type="dot-net-library" name="UnityEngine.Analytics" />
+          <orderEntry type="dot-net-library" name="UnityEngine.Advertisements" />
+          <orderEntry type="dot-net-library" name="UnityEngine.Purchasing" />
+          <orderEntry type="dot-net-library" name="UnityEngine.Timeline" />
+          <orderEntry type="dot-net-library" name="System" />
+          <orderEntry type="dot-net-library" name="System.Core" />
+          <orderEntry type="dot-net-library" name="System.Runtime.Serialization" />
+          <orderEntry type="dot-net-library" name="System.Xml" />
+          <orderEntry type="dot-net-library" name="System.Xml.Linq" />
+        </module-layer>
+      </module>
+      <module name="Assembly-CSharp" current-layer="Default">
+        <module-layer name="Default">
+          <extension id="unity3d-child" />
+          <extension id="unity3d-csharp-child" unsafe-code="false" language-version-name="_6_0" />
+          <content url="file://$USER_HOME$/Documents/Unity Projects/TheTaLKiNgRaBBiT/Assets/TheTaLKiNgRaBBiT/Controller/DialogueManager.cs" />
+          <content url="file://$USER_HOME$/Documents/Unity Projects/TheTaLKiNgRaBBiT/Assets/TheTaLKiNgRaBBiT/Controller/DialogueManager.cs.meta" />
+          <content url="file://$USER_HOME$/Documents/Unity Projects/TheTaLKiNgRaBBiT/Assets/TheTaLKiNgRaBBiT/Controller/OptionManager.cs" />
+          <content url="file://$USER_HOME$/Documents/Unity Projects/TheTaLKiNgRaBBiT/Assets/TheTaLKiNgRaBBiT/Controller/OptionManager.cs.meta" />
+          <content url="file://$USER_HOME$/Documents/Unity Projects/TheTaLKiNgRaBBiT/Assets/TheTaLKiNgRaBBiT/Core/DialogueReader.cs" />
+          <content url="file://$USER_HOME$/Documents/Unity Projects/TheTaLKiNgRaBBiT/Assets/TheTaLKiNgRaBBiT/Core/DialogueReader.cs.meta" />
+          <content url="file://$USER_HOME$/Documents/Unity Projects/TheTaLKiNgRaBBiT/Assets/TheTaLKiNgRaBBiT/Interactive/Trigger.cs" />
+          <content url="file://$USER_HOME$/Documents/Unity Projects/TheTaLKiNgRaBBiT/Assets/TheTaLKiNgRaBBiT/Interactive/Trigger.cs.meta" />
+          <content url="file://$USER_HOME$/Documents/Unity Projects/TheTaLKiNgRaBBiT/Assets/TheTaLKiNgRaBBiT/Model/Dialogue.cs" />
+          <content url="file://$USER_HOME$/Documents/Unity Projects/TheTaLKiNgRaBBiT/Assets/TheTaLKiNgRaBBiT/Model/Dialogue.cs.meta" />
+          <content url="file://$USER_HOME$/Documents/Unity Projects/TheTaLKiNgRaBBiT/Assets/TheTaLKiNgRaBBiT/Model/Flag.cs" />
+          <content url="file://$USER_HOME$/Documents/Unity Projects/TheTaLKiNgRaBBiT/Assets/TheTaLKiNgRaBBiT/Model/Flag.cs.meta" />
+          <content url="file://$USER_HOME$/Documents/Unity Projects/TheTaLKiNgRaBBiT/Assets/TheTaLKiNgRaBBiT/Model/Option.cs" />
+          <content url="file://$USER_HOME$/Documents/Unity Projects/TheTaLKiNgRaBBiT/Assets/TheTaLKiNgRaBBiT/Model/Option.cs.meta" />
+          <orderEntry type="sourceFolder" />
+          <orderEntry type="module" module-name="Assembly-UnityScript-firstpass" />
+          <orderEntry type="module" module-name="Assembly-CSharp-firstpass" />
+          <orderEntry type="dot-net-library" name="mscorlib" />
+          <orderEntry type="dot-net-library" name="UnityEditor" />
+          <orderEntry type="dot-net-library" name="UnityEngine" />
+          <orderEntry type="dot-net-library" name="UnityEngine.UI" />
+          <orderEntry type="dot-net-library" name="UnityEngine.Networking" />
+          <orderEntry type="dot-net-library" name="UnityEngine.Analytics" />
+          <orderEntry type="dot-net-library" name="UnityEngine.Advertisements" />
+          <orderEntry type="dot-net-library" name="UnityEngine.Purchasing" />
+          <orderEntry type="dot-net-library" name="UnityEngine.Timeline" />
+          <orderEntry type="dot-net-library" name="System" />
+          <orderEntry type="dot-net-library" name="System.Core" />
+          <orderEntry type="dot-net-library" name="System.Runtime.Serialization" />
+          <orderEntry type="dot-net-library" name="System.Xml" />
+          <orderEntry type="dot-net-library" name="System.Xml.Linq" />
+        </module-layer>
+      </module>
+    </modules>
+  </component>
+</project>
